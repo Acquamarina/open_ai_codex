@@ -2,7 +2,7 @@
 
 ## What it Does:
 
-This application was built to provide me assistance to quickly achieve programming tasks.
+This application was built to provide me assistance to quickly achieve programming tasks. [KevinEverywhere](https://github.com/KevinEverywhere/open_ai_codex) helped me put this together. Thanks, Kevin!
 
 # Implementation of a ChatGPT AI Application
 
