@@ -34,4 +34,4 @@ OPENAI_API_KEY=API_KEY
    ```
    $ npm start
    ```
-7. To see the app running, go to [http://localhost:5173/](http://localhost:5173/)
+7. To see the app running, go to [https://codex-git-main-acquamarina.vercel.app](https://codex-git-main-acquamarina.vercel.app)
